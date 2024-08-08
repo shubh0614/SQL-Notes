@@ -1,7 +1,7 @@
 
 # MSSQL Notes
 
-This repository contains a detailed collection of notes and examples for Microsoft SQL Server (MSSQL). It covers various aspects, including:
+This repository contains a detailed collection of notes and examples for Microsoft SQL Server (MSSQL). 
 
 ## Topics Covered
 
